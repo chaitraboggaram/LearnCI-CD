@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+# Thumbnails
+._*
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+yarn.lock
+
+# Editor
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*.swm
+*.bak
+*.tmp
+*.tmp.*
+*.log
+
+# OS generated
+ehthumbs.db
+Thumbs.db
